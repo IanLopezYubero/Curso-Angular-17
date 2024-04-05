@@ -9,4 +9,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   name = 'pedro';
+  user = "Usuario";
+  data = [1,2,3,4,5,6];
 }
